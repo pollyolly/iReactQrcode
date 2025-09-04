@@ -69,7 +69,7 @@ function App() {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.sectionContainer}>
-        <Text style={styles.sectionTitle}>Generate QRCode</Text>
+        <Text style={styles.sectionTitle}>QR Code Generator</Text>
         <View style={styles.row}>
           <TextInput
             placeholder="Add Value to QRCode"
@@ -156,7 +156,7 @@ const styles = StyleSheet.create({
     fontWeight: '400',
   },
   newButton: {
-    backgroundColor: 'deepskyblue',
+    backgroundColor: 'orange',
     marginHorizontal: 10,
     paddingVertical: 10,
     paddingHorizontal: 75,
@@ -164,7 +164,7 @@ const styles = StyleSheet.create({
     paddingBottom: 17,
   },
   Button: {
-    backgroundColor: 'deepskyblue',
+    backgroundColor: 'orange',
     marginTop: 32,
     marginRight: 50,
     paddingVertical: 10,

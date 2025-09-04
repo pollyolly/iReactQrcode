@@ -1,3 +1,8 @@
+## iReactQrcode
+
+### Image
+<img src="https://github.com/pollyolly/ReactQrcode/blob/main/qrcode_generator.png" width=250 />
+
 ### Run ReactNative
 ```
 $cd ReactQrcode/
