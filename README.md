@@ -1,7 +1,7 @@
 ## iReactQrcode
 
 ### Image
-<img src="https://github.com/pollyolly/ReactQrcode/blob/main/qrcode_generator.png" width=250 />
+<img src="https://github.com/pollyolly/iReactQrcode/blob/main/qrcode_generator.png" width=250 />
 
 ### Run ReactNative
 ```
